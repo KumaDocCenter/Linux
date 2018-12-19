@@ -1,0 +1,20 @@
+#Linux学习常用网站
+
+https://linux.cn/article-5893-1.html
+http://www.linuxeden.com/index.php
+http://releases.ubuntu.com/14.04.3/
+http://www.linfo.org/
+http://www.51-n.com/10-1/
+http://www.wuxiancheng.cn/
+http://www.ituring.com.cn/book/1277
+http://emuch.net/html/201206/4571925.html
+http://www.zhaonew.com/
+http://bbs.feng.com/read-htm-tid-4998822.html
+https://www.kernel.org/
+
+http://tour.ubuntu.com/zh-CN/
+
+
+https://jingyan.baidu.com/article/a3f121e4acda61fc9052bbc5.html
+
+yum install lrzsz 
