@@ -7,7 +7,7 @@ categories:
 tags:
 typora-root-url: linux操作系统3
 typora-copy-images-to: linux操作系统3
-top: 
+top: 1
 ---
 
 

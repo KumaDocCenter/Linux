@@ -7,7 +7,7 @@ categories:
 tags:
 typora-root-url: linux操作系统2
 typora-copy-images-to: linux操作系统2
-top: 
+top: 1
 ---
 
 
